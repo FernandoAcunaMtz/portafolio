@@ -1,0 +1,19 @@
+body{
+    background-color: #222;
+    color: #fff
+    ;
+}
+
+.container{
+    padding: 1rem;
+}
+
+
+
+
+
+.programador{
+    width: 8rem;
+    height: auto;
+    border-radius: 8px;
+}
